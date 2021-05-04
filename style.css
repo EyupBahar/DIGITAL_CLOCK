@@ -1,0 +1,21 @@
+
+body,html{
+    width:100%;
+    background-color:black;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+div{
+    text-align: center;
+    justify-content:center
+}
+#date{
+    color:white;
+    font-size:7rem;
+    
+}
+#clock{
+    color:white;
+    font-size: 5rem;
+}
